@@ -1,0 +1,27 @@
+.login-page-content {
+    margin-top: 250px;
+
+
+    h2 {
+        font-weight: 300;
+        font-size: 30px;
+        color: #304254;
+    }
+}
+
+.login-card {
+    width: 50rem;
+    height: 70rem;
+
+    label{
+        font-size: 18px;
+    }
+
+    input {
+        font-size: 18px;
+    }
+    button {
+        font-size: 18px;
+    }
+
+}

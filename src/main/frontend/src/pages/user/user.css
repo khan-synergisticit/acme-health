@@ -1,0 +1,13 @@
+.user-page-content {
+    margin-top: 150px;
+
+    h2 {
+        font-weight: 300;
+        font-size: 30px;
+        color: #304254;
+    }
+}
+
+.side-content {
+    margin-left: 32rem;
+}
